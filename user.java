@@ -14,4 +14,12 @@ public class user{
 	
 	a
 	b
+	
+	
+	
+	
+	
+	
+	rwtwetwry
+	wtrthyr    git reset HEAD file
 }
